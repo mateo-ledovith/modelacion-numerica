@@ -7,10 +7,10 @@ Este repositorio contiene todo el material trabajado durante la cursada de la ma
 El repositorio está organizado en las siguientes carpetas principales:
 
 ```
-├── notas/
-├── parcial/
-├── final/
-├── tp/
+├── Apuntes Teoricos/
+├── Parciales/
+├── Finales/
+├── TP/
 ```
 
 
