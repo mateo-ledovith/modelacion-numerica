@@ -1,0 +1,5 @@
+from .biseccion import buscar_raiz_biseccion, estimar_iteraciones_biseccion
+from .punto_fijo import buscar_raiz_punto_fijo, estimar_iteraciones_punto_fijo
+from .newton_raphson import buscar_raiz_newton_raphson, estimar_iteraciones_newton_raphson
+from .secante import buscar_raiz_secante, estimar_iteraciones_secante
+from .raices_multiples import buscar_raiz_raices_multiples, estimar_iteraciones_raices_multiples
